@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="go.mod" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
     </extensionMap>
