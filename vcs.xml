@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/holdex/hp-iua_svc.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="george_ciubotaru" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/projects/hp-iua_svc/src" />
